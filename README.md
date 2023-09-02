@@ -57,7 +57,7 @@ Discord: [discord](https://discord.gg/tPb4G6gXmm)
 npm  i -g degit
 
 # Pull the code
-degit antdv-pro/antdv-pro [your project name]
+degit zth-cli/antdv-pro [your project name]
 
 #  Switch to the project directory
 cd [your project name]
